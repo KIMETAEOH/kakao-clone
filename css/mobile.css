@@ -1,9 +1,5 @@
 .bigScreen {
-<<<<<<< Updated upstream
   position: absolute;
-=======
-  position: fixed;
->>>>>>> Stashed changes
   width: 100%;
   height: 100%;
   top: 0;
@@ -14,20 +10,14 @@
   align-items: center;
   font-weight: 600;
   color: white;
-<<<<<<< Updated upstream
   font-size: 29px;
   padding: 0px 20px;
-=======
   font-size: 28px;
->>>>>>> Stashed changes
   text-align: center;
   line-height: 1.5;
   padding: 0px 20px;
   display: none;
-<<<<<<< Updated upstream
   z-index: 4;
-=======
->>>>>>> Stashed changes
 }
 
 @media screen and (min-width: 550px) {
