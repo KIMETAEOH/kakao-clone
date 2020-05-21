@@ -38,7 +38,10 @@ a {
     transform: none;
   }
 }
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 main {
   animation: fadeIn 0.5s ease-in-out;
 }
